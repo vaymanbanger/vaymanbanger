@@ -12,10 +12,3 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
-
-###
-
-<img src="https://raw.githubusercontent.com/vaymanbanger/vaymanbanger/output/snake.svg" alt="Snake animation" />
-
-###
