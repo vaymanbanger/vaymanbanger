@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media1.tenor.com/m/tg_7kkj0tugAAAAd/vinland-saga.gif"  />
+  <img height="200" src="https://media1.tenor.com/m/tg_7kkj0tugAAAAd/vinland-saga.gif"  />
 </div>
 
 ###
@@ -12,6 +12,10 @@
 
 ###
 
-<h1 align="center">👋</h1>
+<h1 align="center">hey there 👋</h1>
+
+###
+
+<img src="https://raw.githubusercontent.com/vaymanbanger/vaymanbanger/output/snake.svg" alt="Snake animation" />
 
 ###
